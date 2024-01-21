@@ -126,7 +126,7 @@
     "jsonpath": "^1.1.1",
     "jsonwebtoken": "^8.5.1",
     "jsqr": "^1.4.0",
-    "jsrsasign": "^10.5.23",
+    "jsrsasign": "^11.0.0",
     "kbpgp": "2.1.15",
     "libbzip2-wasm": "0.0.4",
     "libyara-wasm": "^1.1.0",
